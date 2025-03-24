@@ -13,7 +13,7 @@ Si quieres saber más de mí, checkea mi [Portafolio Personal](https://portfolio
 
 <h3>💻 Alguno de mis Proyectos/Prácticas</h3>
 
-|                                                                                                      PokeApi                                                                                                      |                                                           Trabajo Final de mi Carrera                                                           |
+|                                                                                                      Pokedex                                                                                                      |                                                           Administración Almacen Minimarket                                                           |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | <img width="300" src="https://i.imgur.com/Q2P9v7P.png"> | <img width="300" src="https://i.imgur.com/uJOok4z.png"> |
 
