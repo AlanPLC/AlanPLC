@@ -13,7 +13,7 @@ Si quieres saber más de mí, checkea mi [Portafolio Personal](https://portfolio
 
 <h3>💻 Alguno de mis Proyectos/Prácticas</h3>
 
-|                                                                                                      [Pokedex](https://github.com/AlanPLC/Pokedex)                                                                                                      |                                                           [Administración Almacen Minimarket](https://github.com/AlanPLC/TP-Final-Lab.-IV)                                                           |
+|                                                                                                      [Pokedex](https://github.com/AlanPLC/Pokedex)                                                                                                      |                                                           [Sistema de gestión WEB para Minimarket](https://github.com/AlanPLC/TP-Final-Lab.-IV)                                                           |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | <img width="300" src="https://i.imgur.com/Q2P9v7P.png"> | <img width="300" src="https://i.imgur.com/uJOok4z.png"> |
 
