@@ -14,3 +14,4 @@
 
 Si quieres saber más de mí, checkeá mi [Portafolio Personal](https://portfolio-aplc.vercel.app/)
 
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ekem8hbky2r828v3ew97ackcr)
