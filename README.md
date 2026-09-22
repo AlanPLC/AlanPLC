@@ -1,3 +1,10 @@
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlanPLC/AlanPLC/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlanPLC/AlanPLC/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlanPLC/AlanPLC/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
 <div align="center">
   <h1 >¡Hola!</h1>
 
@@ -7,10 +14,3 @@
 
 Si quieres saber más de mí, checkeá mi [Portafolio Personal](https://portfolio-aplc.vercel.app/)
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlanPLC/AlanPLC/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlanPLC/AlanPLC/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlanPLC/AlanPLC/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
